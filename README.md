@@ -1,120 +1,163 @@
-front-end-developer-employer-questions
-======================================
+<article itemprop="mainContentOfPage" class="markdown-body entry-content"><h1>
+<a href="#front-end-developer-employer-questions" class="anchor" name="front-end-developer-employer-questions"><span class="mini-icon mini-icon-link"></span></a>front-end-developer-employer-questions</h1>
 
-The Front-end Job Interview Questions list (https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) is pretty awesome--if you're an employer. It gave me the idea to have a list of questions for front-end developers to ask prospective employers.
+<p>The Front-end Job Interview Questions list (<a href="https://github.com/darcyclarke/Front-end-Developer-Interview-Questions">https://github.com/darcyclarke/Front-end-Developer-Interview-Questions</a>) is pretty awesome--if you're an employer. It gave me the idea to have a list of questions for front-end developers to ask prospective employers.</p>
 
-These questions cover employers who are large enough to have a dedicated development team. It should work reasonably well for both agencies and companies that are working on internal projects.
+<p>These questions cover employers who are large enough to have a dedicated development team. It should work reasonably well for both agencies and companies that are working on internal projects.</p>
 
-Interviews usually happen with both Managers and Team Members, so I've split the questions into those two general categories.
+<p><em>General Questions:</em></p>
 
-Management Questions
---------------------
+<ul>
+<li>How do you define front end development?</li>
+<li>What tools do you use for internal communication? (email,chat,irc)</li>
+<li>What is your telecommuting policy?</li>
+<li>How many employees are in the company?</li>
+<li>What department does the position report to?
 
-*General Questions:*
- - How do you define front end development?
- - What tools do you use for internal communication? (email,chat,irc)
- - What is your telecommuting policy?
- - How many employees are in the company?
- - What department does the position report to?
-   * How many people work in that department?
- - How many hours do you expect in a typical day/week?
- - What are standard business hours?
- - What is the value of this position to your company?
- - What equipment is provided with the position?
- - Do you have a dress code?
- - How many hours a week does a typical FED spend in meetings?
- 
-*Project Management:*
- - Can you describe a typical project life cycle?
- - What is an average project size in terms of days/weeks/team members?
- - How do you organize project teams?
- - Do you use any project management software?
- - Do you have dedicated project managers?
-  * If so, how many?
-  * Are they certified / what certification?
- - What is your development methodology?
-  * If Agile, what is your sprint length?
- - How often do you push code live?
- - Do you use a bug tracking/ticketing system?
- - What kind of seating arrangement do you have?
-   (teams vs departments)
+<ul>
+<li>How many people work in that department?</li>
+</ul>
+</li>
+<li>How many hours do you expect in a typical day/week?</li>
+<li>What are standard business hours?</li>
+<li>What is the value of this position to your company?</li>
+<li>What equipment is provided with the position?</li>
+<li>Do you have a dress code?</li>
+<li>How many hours a week does a typical FED spend in meetings?</li>
+</ul><p><em>Clients:</em></p>
 
-*Clients:*
- - What percentage of clients are internal vs external?
- - How often are clients in the office?
- - Who is the primary POC for client interactions?
- - Are FEDs expected to meet with clients?
- - Do you send FEDs on sales calls?
- - How do you handle difficult clients, in particular:
-  * feature creep / design changes
-  * "Make the logo bigger"
- - Do you track hours?
-  * What tools do you use?
-  * How many client-billable hours do you expect per week?
+<ul>
+<li>What percentage of clients are internal vs external?</li>
+<li>How often are clients in the office?</li>
+<li>Who is the primary POC for client interactions?</li>
+<li>Are FEDs expected to meet with clients?</li>
+<li>Do you send FEDs on sales calls?</li>
+<li>How do you handle difficult clients, in particular:
 
-*Bonus Questions*
- - What do you think about Google's 20% policy?
- - Do you send employees to tech conferences?
-  * Do you let them spend working hours creating talks to give at said conferences?
- - Do you ever bring in lunch/dinner during crunch times?
- - Do you believe an employee should ever "stay as late as it takes to get the job done?"
+<ul>
+<li>feature creep / design changes</li>
+<li>"Make the logo bigger"</li>
+</ul>
+</li>
+<li>Do you track hours?
 
+<ul>
+<li>What tools do you use?</li>
+<li>How many client-billable hours do you expect per week?</li>
+</ul>
+</li>
+</ul><p><em>Markup:</em></p>
 
-Coding Team Questions
----------------------
+<ul>
+<li>HTML5 or XHTML Strict?</li>
+<li>Semantics Nazi or divs and spans as necessary?</li>
+<li>Accessibility
 
-*Coding Standards*
- - Do you have coding style guide?
-  * Spaces or tabs?
- - What do you use for version control?
- - What is the oldest version of IE that you support?
- - Do you have a preferred CMS or development platform?
- - What is your standard development toolkit?
- - Macs or PCs?
- - Do you do code reviews?
- - Do you have a coder blog?
- - Do you publish your code?
- - Do you allow employees to publish code?
+<ul>
+<li>Do you use WAI-ARIA?</li>
+<li>Is accessible AJAX a priority?</li>
+<li>Do you ever test for accessibility with screen reader software or a testing service?</li>
+</ul>
+</li>
+</ul><p><em>CSS:</em></p>
 
-*Markup:*
-- HTML5 or XHTML Strict?
-- Semantics Nazi or divs and spans as necessary?
-- Accessibility
- * Do you use WAI-ARIA?
- * Is accessible AJAX a priority?
- * Do you ever test for accessibility with screen reader software or a testing service?
+<ul>
+<li>What, if any preprocessor do you use? (Sass, LESS, Stylus)</li>
+<li>Do you subscribe to any particular CSS structure? (SMACSS, OOCSS)</li>
+</ul><p><em>JavaScript:</em></p>
 
-*CSS:*
- - What, if any preprocessor do you use? (Sass, LESS, Stylus)
- - Do you subscribe to any particular CSS structure? (SMACSS, OOCSS)
+<ul>
+<li>What JavaScript libraries do you use, if any?</li>
+<li>Do you prioritize building interactions that work without JS enabled, or do you accept that all users will or should have JS?</li>
+</ul><p><em>Project Management:</em></p>
 
-*JavaScript:*
- - What JavaScript libraries do you use, if any?
- - Do you prioritize building interactions that work without JS enabled, or do you accept that all users will or should have JS?
+<ul>
+<li>Can you describe a typical project life cycle?</li>
+<li>What is an average project size in terms of days/weeks/team members?</li>
+<li>How do you organize project teams?</li>
+<li>Do you use any project management software?</li>
+<li>Do you have dedicated project managers?
 
-*UX*
- - Do you have a UX team?
-  * if yes, can you give me an overview of your UX process?
- - Do you do user testing?
- - What's your current approach to mobile?
+<ul>
+<li>If so, how many?</li>
+<li>Are they certified / what certification?</li>
+</ul>
+</li>
+<li>What is your development methodology?
 
-*Design*
- - Are FEDs involved in the design process?
-  * if so, at what point?
- - How many design comps are created for a typical project?
- - What format do you use for design comps?
+<ul>
+<li>If Agile, what is your sprint length?</li>
+</ul>
+</li>
+<li>How often do you push code live?</li>
+<li>Do you use a bug tracking/ticketing system?</li>
+<li>What kind of seating arrangement do you have?
+(teams vs departments)</li>
+</ul><p><em>UX</em></p>
 
-*Programming*
- - What are the primary programming languages used?
- - How many dedicated programmers do you have?
- - How much time are programmers allowed to spend mentoring?
+<ul>
+<li>Do you have a UX team?
 
-*Quality Assurance:*
- - Do you have any dedicated QA software or hardware?
- - How do you determine browsers/devices for testing?
- - Do you collect metrics on site visitors and user agents?
- - What percentage of a build is dedicated to QA?
- - At what point in the build do you begin QA?
-   (bonus for continuous or unit testing)
+<ul>
+<li>if yes, can you give me an overview of your UX process?</li>
+</ul>
+</li>
+<li>Do you do user testing?</li>
+<li>What's your current approach to mobile?</li>
+</ul><p><em>Design</em></p>
 
-~~~
+<ul>
+<li>Are FEDs involved in the design process?
+
+<ul>
+<li>if so, at what point?</li>
+</ul>
+</li>
+<li>How many design comps are created for a typical project?</li>
+<li>What format do you use for design comps?</li>
+</ul><p><em>Coding Standards</em></p>
+
+<ul>
+<li>Do you have coding style guide?
+
+<ul>
+<li>Spaces or tabs?</li>
+</ul>
+</li>
+<li>What do you use for version control?</li>
+<li>What is the oldest version of IE that you support?</li>
+<li>Do you have a preferred CMS or development platform?</li>
+<li>What is your standard development toolkit?</li>
+<li>Macs or PCs?</li>
+<li>Do you do code reviews?</li>
+<li>Do you have a coder blog?</li>
+<li>Do you publish your code?</li>
+<li>Do you allow employees to publish code?</li>
+</ul><p><em>Programming</em></p>
+
+<ul>
+<li>What are the primary programming languages used?</li>
+<li>How many dedicated programmers do you have?</li>
+<li>How much time are programmers allowed to spend mentoring?</li>
+</ul><p><em>Quality Assurance:</em></p>
+
+<ul>
+<li>Do you have any dedicated QA software or hardware?</li>
+<li>How do you determine browsers/devices for testing?</li>
+<li>Do you collect metrics on site visitors and user agents?</li>
+<li>What percentage of a build is dedicated to QA?</li>
+<li>At what point in the build do you begin QA?
+(bonus for continuous or unit testing)</li>
+</ul><p><em>Bonus Questions</em></p>
+
+<ul>
+<li>What do you think about Google's 20% policy?</li>
+<li>Do you send employees to tech conferences?
+
+<ul>
+<li>Do you let them spend working hours creating talks to give at said conferences?</li>
+</ul>
+</li>
+<li>Do you ever bring in lunch/dinner during crunch times?</li>
+<li>Do you believe an employee should ever "stay as late as it takes to get the job done?"</li>
+</ul><pre><code></code></pre></article>
